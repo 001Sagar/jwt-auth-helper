@@ -78,4 +78,4 @@ app.listen(port, () => {
 
 ## License
 
-node-cron is under [ISC License](https://github.com/merencia/node-cron/blob/master/LICENSE.md).
+node-cron is under [ISC License](https://github.com/001Sagar/jwt-auth-helper/blob/master/LICENSE.md).
