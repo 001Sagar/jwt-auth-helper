@@ -1,0 +1,20 @@
+{
+  "name": "authorization-npm-package",
+  "version": "1.0.0",
+  "description": "A simple npm package for JWT authentication in Node.js applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "[\"authentication\"",
+    "\"jwt\"]"
+  ],
+  "author": "Sagar Arya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
